@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'PUNKBABE';
+    src: url('PUNKBABE.woff2') format('woff2'),
+        url('PUNKBABE.woff') format('woff'),
+        url('PUNKBABE.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
