@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'VCR OSD Mono';
+    src: url('VCROSDMono.woff2') format('woff2'),
+        url('VCROSDMono.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Future Earth';
+    src: url('Future-Earth.woff2') format('woff2'),
+        url('Future-Earth.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hit me, punk! 01';
+    src: url('Hitmepunk01.woff2') format('woff2'),
+        url('Hitmepunk01.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
